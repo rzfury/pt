@@ -1,0 +1,11 @@
+import * as Phaser from 'phaser';
+
+export default class Example extends Phaser.Scene {
+  preload() {
+    
+  }
+
+  create() {
+    
+  }
+}
